@@ -22,8 +22,6 @@
 4. [구현 부분](#구현-부분)
 5. [실제 화면](#실제-화면)
 
-</br>
-
 ---
 
 </br>
@@ -36,15 +34,15 @@
 
 ## 사용 기술
 #### `Back-end`
-- Language&nbsp;&nbsp;  | JAVA 11
-- Framework | Spring Boot 2.7.5, MyBatis, JPA
-- DB &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | MySQL
+- Language&nbsp;&nbsp;  | `JAVA 11`
+- Framework | `Spring Boot 2.7.5`, `MyBatis`, `JPA`
+- DB &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | `MySQL`
 
 #### `Front-end`
-- HTML5
-- CSS3
-- JavaScript
-- Thymeleaf
+- `HTML5`
+- `CSS3`
+- `JavaScript`
+- `Thymeleaf`
 
 #### `Tools`
 - GitHub
