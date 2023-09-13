@@ -33,18 +33,18 @@
 </br>
 
 ## 사용 기술
-#### `Back-end`
+#### <span style='background-color:#fff5b1'>Back-End</span>
 - Language&nbsp;&nbsp;  | `JAVA 11`
 - Framework | `Spring Boot 2.7.5`, `MyBatis`, `JPA`
 - DB &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | `MySQL`
 
-#### `Front-end`
+#### <span style='background-color:#f6f8fa'>Front-End</span>
 - `HTML5`
 - `CSS3`
 - `JavaScript`
 - `Thymeleaf`
 
-#### `Tools`
+#### <span style='background-color:#f6f8fa'>Tools</span>
 - GitHub
 - Notion
   
