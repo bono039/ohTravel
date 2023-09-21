@@ -18,21 +18,22 @@
 ### 📍 목차
 1. [제작 기간 · 참여 인원](#제작-기간--참여-인원)
 2. [사용 기술](#사용-기술)
-3. [ERD 설계](#erd-설계)
-4. [구현 부분](#구현-부분)
-5. [실제 화면](#실제-화면)
+3. [역할](#역할)
+4. [ERD 설계](#erd-설계)
+5. [구현 부분](#구현-부분)
+6. [결과 (실제 화면)](#결과-(실제-화면))
 
 ---
 
 </br>
 
-## 제작 기간 · 참여 인원
+## 1. 제작 기간 · 참여 인원
 - 2022.11.15 ~ 2022.12.19
 - 팀 프로젝트 (7명)
 
 </br>
 
-## 사용 기술
+## 2. 사용 기술
 #### <span style='background-color:#fff5b1'>Back-End</span>
 - Language&nbsp;&nbsp;  | `JAVA 11`
 - Framework | `Spring Boot 2.7.5`, `MyBatis`, `JPA`
@@ -45,12 +46,22 @@
 - `Thymeleaf`
 
 #### <span style='background-color:#f6f8fa'>Tools</span>
+- STS 3.9.14
+- MySQL WorkBench 8.0
 - GitHub
 - Notion
-  
+
 </br>
 
-## ERD 설계
+## 3. 역할
+- 화면 기획
+- 일정 관리
+- ERD 설계
+- 입장권 상품 예약 관련 기능 구현
+
+</br>
+
+## 4. ERD 설계
 - 프로젝트 전체 ERD
   ![image](https://github.com/bono039/ohTravel/assets/67899934/d787506f-360d-46a0-a017-53b84b7d8c99)
 
@@ -61,7 +72,7 @@
 
 </br>
 
-## 구현 부분
+## 5. 구현 부분
 ### **입장권 예약 관련 기능**
 - **검색**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 여행지 / 입장권 이름으로 검색
 - **입장권 상품 정렬하기** &nbsp;- 대표 이미지 / 찜 여부 / 상품권 이름 / 가격 / 별점 표기
@@ -70,7 +81,7 @@
 
 </br>
 
-## 실제 화면
+## 6. 결과 (실제 화면)
 - [입장권] 메인화면
 ![image](https://github.com/bono039/ohTravel/assets/67899934/18a51db3-d5d1-4067-92a8-fcbd14399abc)
 
